@@ -1,0 +1,11 @@
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\ServerTCPLibrary.dll
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\ServerTCPLibrary.pdb
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\Dapper.dll
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\System.Data.SQLite.dll
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\Dapper.xml
+F:\source\repos\TCPServer\ServerTCPLibrary\bin\Debug\System.Data.SQLite.xml
+F:\source\repos\TCPServer\ServerTCPLibrary\obj\Debug\ServerTCPLibrary.csprojAssemblyReference.cache
+F:\source\repos\TCPServer\ServerTCPLibrary\obj\Debug\ServerTCPLibrary.csproj.CopyComplete
+F:\source\repos\TCPServer\ServerTCPLibrary\obj\Debug\ServerTCPLibrary.dll
+F:\source\repos\TCPServer\ServerTCPLibrary\obj\Debug\ServerTCPLibrary.pdb
+F:\source\repos\TCPServer\ServerTCPLibrary\obj\Debug\ServerTCPLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+F:\source\repos\TCPServer\TCPServer\bin\Debug\LoginDB.db
+F:\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+F:\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+F:\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+F:\source\repos\TCPServer\TCPServer\bin\Debug\ServerTCPLibrary.dll
+F:\source\repos\TCPServer\TCPServer\bin\Debug\System.Data.SQLite.dll
+F:\source\repos\TCPServer\TCPServer\bin\Debug\Dapper.dll
+F:\source\repos\TCPServer\TCPServer\bin\Debug\ServerTCPLibrary.pdb
+F:\source\repos\TCPServer\TCPServer\bin\Debug\System.Data.SQLite.xml
+F:\source\repos\TCPServer\TCPServer\bin\Debug\Dapper.xml
+F:\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+F:\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+F:\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+F:\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+F:\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
